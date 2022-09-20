@@ -58,9 +58,9 @@ CORS_ALLOW_CREDENTIALS = True
 
 CORS_ORIGIN_WHITELIST = [
     'http://202.143.198.111', # ここに追加
-    'http://202.143.198.111/game',
+    'http://202.143.198.111/django_app/game',
     'http://192.168.11.13',
-    'http://192.168.11.13/game/',
+    'http://192.168.11.13/django_app/game/',
     '202.143.198.111/:1',
 ]
 
